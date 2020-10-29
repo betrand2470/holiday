@@ -1,6 +1,8 @@
-<h1> Hello, Welcome to Simple DevOps Project Betrand !!   </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Hope you are enyoying </h2>
-<h1> We are building the whole devops pipeline </h1>
-<h2> Hope you are enjoying it  </h2>
+<h1> Hello, if you are reading this message then i am glad </h1>
+
+<h1> Welcome to my full DevOps Pipeline Project!!   </h1>
+
+<h2> It is always a pleasure working for Data Service Group </h2>
+
+<h1> Signed BETRAND </h1>
 
